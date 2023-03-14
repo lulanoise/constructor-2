@@ -22,6 +22,4 @@ public class Teacher {
         System.out.println("Assigning grade"+ " " + finalGrade + " " + "to student" + " " + alum.name);
         alum.grade = finalGrade;
     }
-
-
 }
